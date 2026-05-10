@@ -1,12 +1,12 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.11",
   "notes": "Bug fixes and improvements",
-  "pub_date": "2026-05-10T11:34:54Z",
-  "installer_url": "https://github.com/pokerwarden/gto-solver-releases/releases/download/v0.1.10/GTO.Solver_0.1.10_x64-setup.exe",
+  "pub_date": "2026-05-10T16:43:34Z",
+  "installer_url": "https://github.com/pokerwarden/gto-solver-releases/releases/download/v0.1.11/GTO.Solver_0.1.11_x64-setup.exe",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/pokerwarden/gto-solver-releases/releases/download/v0.1.10/GTO.Solver_0.1.10_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUUx5QUpQUnRBaUMyOVlCY3hQS0xiTHZDSlcrMGpKTVV0NGphYmtEMUNvenB6Tlg2ajliWmxVR0J1aXUrcnBPYVlyVVlkWktJamVXT0ZPcktyTlZ3U3h6N09UVVY5U3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDEyNjExCWZpbGU6R1RPIFNvbHZlcl8wLjEuMTBfeDY0LXNldHVwLmV4ZQpLdkRzTkJxNzRiblRsQTIxYmdjVUVIcENVMVZiTGxGNzBuOE5rVE9tamZ3MHpyM0xoaWU4MHBSRVlrZXJlVnRaUC9kMjdZZGE1dEIyYUc5M1pualVDdz09Cg=="
+      "url": "https://github.com/pokerwarden/gto-solver-releases/releases/download/v0.1.11/GTO.Solver_0.1.11_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUUx5QUpQUnRBaUs0LzFhcDYvd3d0bmxhczRnTzQrUWJPZllHQlhLYlRBZmliZGJsQVovWmdhdmtKVm1SMExQK2ZRcmc4U0pNYUduUVN3aS8zWWJsT3NUWHNudEkrYXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NDIyMTM0CWZpbGU6R1RPIFNvbHZlcl8wLjEuMTFfeDY0LXNldHVwLmV4ZQoySnpEd2FZTGFzZmxaYWZFVGJvMWxieC81SUlOcnRNVzRyQmJzNDVNY25pMDVucjJFWlkxaEo1RU5CUTBwdXlseFZ2b2hSdEoweGlMdHlNbE05Y1RDQT09Cg=="
     }
   }
 }
